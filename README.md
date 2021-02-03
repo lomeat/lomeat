@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I am Michael 👋
+
+- 🔭 I’m currently looking for work on JavaScript / TypeScript, React
+- 📫 How to reach me: Telegram: @lomeat, Email: lom3at@gmail.com 
 
 <!--
 **lomeat/lomeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
