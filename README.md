@@ -20,8 +20,8 @@ I am a front-end developer, open to work now. In freetime like to draw stickers,
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Webpack](https://img.shields.io/badge/-Webpack-darkgreen?style=flat-square&logo=webpack)
 
-## :chart_with_upwards_trend:	 Stats
+### :chart_with_upwards_trend:	 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lomeat&show_icons=true)
+<!--- ![Github Stats](https://github-readme-stats.vercel.app/api?username=lomeat&show_icons=true) --->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lomeat.lomeat)
