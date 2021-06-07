@@ -1,6 +1,6 @@
 ## Hello, I am Michael 👋
 
-I am a front-end developer, open to work now. In freetime like to draw stickers, montage videos and blog myself.
+I am a front-end developer, working in launchOptions now. In freetime like to draw stickers, montage videos and blog myself.
 
 [![Linkedin Badge](https://img.shields.io/badge/-lomeat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lomeat/)](https://www.linkedin.com/in/lomeat/)
 [![Instagram Badge](https://img.shields.io/badge/-lomeat.art-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lomeat.art/)](https://instagram.com/lomeat.art)
