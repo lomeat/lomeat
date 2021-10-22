@@ -13,7 +13,7 @@ I am a front-end developer, working in launchOptions now. In freetime like to dr
 ![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
-![React Query](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react-query&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-red?style=flat-square&logo=sass&logoColor=white)
 ![styled-components](https://img.shields.io/badge/-Styled-brown?style=flat-square&logo=styled-components&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
