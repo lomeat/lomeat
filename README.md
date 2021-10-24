@@ -1,6 +1,6 @@
 ## Hello, I am Michael 👋
 
-I am a front-end developer, working in launchOptions now. In freetime like to draw stickers, montage videos and blog myself.
+Front-end developer, check my (personal page)[https://filipenko.vercel.app]
 
 [![Linkedin Badge](https://img.shields.io/badge/-lomeat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lomeat/)](https://www.linkedin.com/in/lomeat/)
 [![Instagram Badge](https://img.shields.io/badge/-lomeat.art-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lomeat.art/)](https://instagram.com/lomeat.art)
@@ -13,7 +13,7 @@ I am a front-end developer, working in launchOptions now. In freetime like to dr
 ![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
-![React Query](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react-query&logoColor=white)
+![React Query](https://img.shields.io/badge/-React-Query-blue?style=flat-square&logo=react-query&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-red?style=flat-square&logo=sass&logoColor=white)
 ![styled-components](https://img.shields.io/badge/-Styled-brown?style=flat-square&logo=styled-components&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
