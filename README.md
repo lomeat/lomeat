@@ -1,6 +1,6 @@
 ## Hello, I am Michael 👋
 
-Front-end developer, check my (personal page)[https://filipenko.vercel.app]
+Front-end developer, check my [personal page](https://filipenko.vercel.app)
 
 [![Linkedin Badge](https://img.shields.io/badge/-lomeat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lomeat/)](https://www.linkedin.com/in/lomeat/)
 [![Instagram Badge](https://img.shields.io/badge/-lomeat.art-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lomeat.art/)](https://instagram.com/lomeat.art)
