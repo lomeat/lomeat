@@ -25,3 +25,6 @@ Front-end developer, check my [personal page](https://filipenko.vercel.app)
 <!--- ![Github Stats](https://github-readme-stats.vercel.app/api?username=lomeat&show_icons=true) --->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lomeat.lomeat)
+
+> "How to not feel shame on these below pinned repositiories, but lot time ago I was proud of them?"\
+> "Would be cool if I can share code from commercial projects..."
