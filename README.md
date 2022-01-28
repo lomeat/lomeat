@@ -1,13 +1,13 @@
 ## Hello, I am Michael 👋
 
-Front-end developer, check my [personal page](https://filipenko.vercel.app)
+Lead Front-end developer, there is my [personal page](https://filipenko.vercel.app), but it WIP for some time
 
 [![Linkedin Badge](https://img.shields.io/badge/-lomeat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lomeat/)](https://www.linkedin.com/in/lomeat/)
 [![Instagram Badge](https://img.shields.io/badge/-lomeat.art-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lomeat.art/)](https://instagram.com/lomeat.art)
-[![Telegram Badge](https://img.shields.io/badge/-lomeat-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/lomeat/)](https://t.me/lomeat)
+[![Telegram Badge](https://img.shields.io/badge/-lomeat_(best_choice)-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/lomeat/)](https://t.me/lomeat)
 [![Gmail Badge](https://img.shields.io/badge/-lom3at@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:lom3at@gmail.com)](mailto:lom3at@gmail.com)
 
-### ⚡ Technologies
+### ⚡ Actual stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript&logoColor=white)
@@ -15,16 +15,14 @@ Front-end developer, check my [personal page](https://filipenko.vercel.app)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
 ![SCSS](https://img.shields.io/badge/-SCSS-red?style=flat-square&logo=sass&logoColor=white)
 ![styled-components](https://img.shields.io/badge/-Styled-brown?style=flat-square&logo=styled-components&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Webpack](https://img.shields.io/badge/-Webpack-darkgreen?style=flat-square&logo=webpack)
 
-### :chart_with_upwards_trend:	 Stats
+There are no common libraries (such as hook-forms or antd) in the list, because I don't see the need to overload with the same things that everyone already knows. But of course, I have worked with many tools and see no problem learning a new one if the project requires it.
+
+<!-- ### :chart_with_upwards_trend: Stats -->
 
 <!--- ![Github Stats](https://github-readme-stats.vercel.app/api?username=lomeat&show_icons=true) --->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lomeat.lomeat)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lomeat.lomeat) -->
 
 > "How to not feel shame on these below pinned repositiories, but lot time ago I was proud of them?"\
 > "Would be cool if I can share code from commercial projects..."
