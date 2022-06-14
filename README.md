@@ -1,9 +1,8 @@
 ## Hello, I am Michael 👋
 
-Lead Front-end developer, there is my [personal page](https://filipenko.vercel.app), but it WIP for some time
+Team Lead Front-end developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-lomeat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lomeat/)](https://www.linkedin.com/in/lomeat/)
-[![Instagram Badge](https://img.shields.io/badge/-lomeat.art-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lomeat.art/)](https://instagram.com/lomeat.art)
 [![Telegram Badge](https://img.shields.io/badge/-lomeat_(best_choice)-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/lomeat/)](https://t.me/lomeat)
 [![Gmail Badge](https://img.shields.io/badge/-lom3at@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:lom3at@gmail.com)](mailto:lom3at@gmail.com)
 
@@ -15,6 +14,7 @@ Lead Front-end developer, there is my [personal page](https://filipenko.vercel.a
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
 ![SCSS](https://img.shields.io/badge/-SCSS-red?style=flat-square&logo=sass&logoColor=white)
 ![styled-components](https://img.shields.io/badge/-Styled-brown?style=flat-square&logo=styled-components&logoColor=white)
+![Antd](https://img.shields.io/badge/-Antd-blue?style=flat-square&logo=antd&logoColor=white)
 
 There are no common libraries (such as hook-forms or antd) in the list, because I don't see the need to overload with the same things that everyone already knows. But of course, I have worked with many tools and see no problem learning a new one if the project requires it.
 
