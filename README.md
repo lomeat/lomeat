@@ -14,7 +14,7 @@ Team Lead Front-end developer
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
 ![SCSS](https://img.shields.io/badge/-SCSS-red?style=flat-square&logo=sass&logoColor=white)
 ![styled-components](https://img.shields.io/badge/-Styled-brown?style=flat-square&logo=styled-components&logoColor=white)
-![Antd](https://img.shields.io/badge/-Antd-blue?style=flat-square&logo=antd&logoColor=white)
+![Antd](https://img.shields.io/badge/-Ant_Design-blue?style=flat-square&logo=antd&logoColor=white)
 
 There are no common libraries (such as hook-forms or antd) in the list, because I don't see the need to overload with the same things that everyone already knows. But of course, I have worked with many tools and see no problem learning a new one if the project requires it.
 
