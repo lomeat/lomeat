@@ -1,6 +1,6 @@
 ## Hello, I am Michael 👋
 
-Team Lead Front-end developer
+Lead Front-end developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-lomeat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lomeat/)](https://www.linkedin.com/in/lomeat/)
 [![Telegram Badge](https://img.shields.io/badge/-lomeat_(best_choice)-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/lomeat/)](https://t.me/lomeat)
