@@ -27,7 +27,3 @@ There are no common libraries (such as hook-forms or antd) in the list, because 
 <!--- ![Github Stats](https://github-readme-stats.vercel.app/api?username=lomeat&show_icons=true) --->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lomeat.lomeat) -->
-
-> "How to not feel shame on these below pinned repositiories when lot time ago I was proud of them?"\
-> "Would be cool if I could share code from commercial projects..."
-
