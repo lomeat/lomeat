@@ -22,7 +22,4 @@ There are no common libraries (such as hook-forms or antd) in the list, because 
 
 - TypeScript + Pixi.js + functional/declarative style
 
-### :chart_with_upwards_trend: Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lomeat&show_icons=true)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lomeat.lomeat)
+<!-- ### :chart_with_upwards_trend: Stats -->
