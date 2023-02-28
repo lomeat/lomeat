@@ -1,6 +1,6 @@
 ## Hello, I am Michael 👋
 
-Lead Front-end developer
+Front-end developer (also I have a great interest in gamedev)
 
 [![Linkedin Badge](https://img.shields.io/badge/-lomeat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lomeat/)](https://www.linkedin.com/in/lomeat/)
 [![Telegram Badge](https://img.shields.io/badge/-lomeat_(best_choice)-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/lomeat/)](https://t.me/lomeat)
@@ -17,6 +17,10 @@ Lead Front-end developer
 ![Antd](https://img.shields.io/badge/-Ant_Design-blue?style=flat-square&logo=antd&logoColor=white)
 
 There are no common libraries (such as hook-forms or antd) in the list, because I don't see the need to overload with the same things that everyone already knows. But of course, I have worked with many tools and see no problem learning a new one if the project requires it.
+
+### Hobby's stack
+
+- TypeScript + Pixi.js + functional/declarative style
 
 <!-- ### :chart_with_upwards_trend: Stats -->
 
