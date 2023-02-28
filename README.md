@@ -24,5 +24,6 @@ There are no common libraries (such as hook-forms or antd) in the list, because 
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lomeat.lomeat) -->
 
-> "How to not feel shame on these below pinned repositiories, but lot time ago I was proud of them?"\
-> "Would be cool if I can share code from commercial projects..."
+> "How to not feel shame on these below pinned repositiories when lot time ago I was proud of them?"\
+> "Would be cool if I could share code from commercial projects..."
+
