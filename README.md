@@ -1,4 +1,4 @@
-<h1 class="title" style="color: red;">(to finish md) Hello, I am <a href="https://www.linkedin.com/in/lomeat" target="_blank">Michael</a> 👋</h1>
+<h1 class="title" style="color: red;" align="right">(to finish md) Hello, I am <a href="https://www.linkedin.com/in/lomeat" target="_blank">Michael</a> 👋</h1>
 
 <div class="container">
   <p class="profession"><strong>Team Lead</strong> & <strong>Front-end Engineer</strong></p>
